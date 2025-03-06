@@ -1,5 +1,5 @@
 # Hi, I'm Ruhul Amin! 👋  
-### A passionate Font-Ent Web Developer  from Bangladesh
+### A passionate Font-End Web Developer  from Bangladesh
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RuhulAmin&label=Profile%20views&color=0e75b6&style=flat)  
 
