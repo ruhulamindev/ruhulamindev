@@ -117,6 +117,10 @@
 
 [![RuhulAminDev GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuhulAminDev&show_icons=true&theme=radical)](https://github.com/RuhulAminDev)
 
+### RuhulAminDev GitHub Stats
+
+[![RuhulAminDev GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuhulAminDev&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/RuhulAminDev)
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuhulAminDev&theme=radical&hide_border=true" alt="GitHub Streak 1">
 
