@@ -30,7 +30,7 @@
 
 <!-- ✅ Already Known -->
 <p align="center">
-  <strong>✅ Already Known:</strong><br/>
+  <strong>✅ Already Known:</strong><br/><br/>
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS"/>
@@ -41,7 +41,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" title="Canva"/>
   
   <!-- Office Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" width="40" height="40" title="MS Office"/>
+  <img src="https://img.icons8.com/color/48/000000/word.png" width="40" height="40" title="MS Word"/>
+<img src="https://img.icons8.com/color/48/000000/excel.png" width="40" height="40" title="MS Excel"/>
+<img src="https://img.icons8.com/color/48/000000/powerpoint.png" width="40" height="40" title="MS PowerPoint"/>
+
   
   <!-- Version Control -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
@@ -53,12 +56,19 @@
 
 <!-- 🌱 Learning -->
 <p align="center">
-  <strong>🌱 Learning:</strong><br/>
+  <strong>🌱 Learning:</strong><br/><br/>
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" title="Tailwind CSS"/>
+<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" 
+  width="40" 
+  height="40" 
+  title="Tailwind CSS" 
+  style="transition: transform 0.3s;" 
+  onmouseover="this.style.transform='scale(1.2)';" 
+  onmouseout="this.style.transform='scale(1)';"/>
   
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/>
@@ -73,11 +83,18 @@
 
 <!-- 🟡 I Know a Little -->
 <p align="center">
-  <strong>🟡 I Know a Little:</strong><br/>
+  <strong>🟡 I Know a Little:</strong><br/><br/>
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" title="Tailwind CSS"/>
+<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" 
+  width="40" 
+  height="40" 
+  title="Tailwind CSS" 
+  style="transition: transform 0.3s;" 
+  onmouseover="this.style.transform='scale(1.2)';" 
+  onmouseout="this.style.transform='scale(1)';"/>
   
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" title="PHP"/>
