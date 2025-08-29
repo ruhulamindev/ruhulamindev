@@ -124,6 +124,17 @@
 [![RuhulAminDev GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuhulAminDev&show_icons=true&theme=radical)](https://github.com/RuhulAminDev)
 
 ![Followers](https://img.shields.io/github/followers/RuhulAminDev?color=green&style=for-the-badge)
+<h3 align="center">RuhulAminDev GitHub Stats</h3>
+
+<p align="center">
+  <a href="https://github.com/RuhulAminDev">
+    <img src="https://github-readme-stats.vercel.app/api?username=RuhulAminDev&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide=stars" alt="GitHub Stats"/>
+  </a>
+  <img src="https://img.shields.io/github/repo-count/RuhulAminDev?color=blue&label=Total%20Repos&style=for-the-badge" alt="Total Repos"/>
+  <img src="https://img.shields.io/github/followers/RuhulAminDev?color=green&label=Followers&style=for-the-badge" alt="Followers"/>
+  <img src="https://img.shields.io/github/following/RuhulAminDev?color=orange&label=Following&style=for-the-badge" alt="Following"/>
+</p>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuhulAminDev&theme=radical&hide_border=true" alt="GitHub Streak 1">
 
