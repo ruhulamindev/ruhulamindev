@@ -29,35 +29,31 @@
 <h3 align="center">💻 My Skills</h3>
 
 <!-- ✅ Already Known -->
-<div align="center">
-  <strong>✅ Already Known:</strong><br/><br/>
+<p align="center">
+  <strong>✅ Already Known:</strong><br/>
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS"/>
   
   <!-- Design Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" title="Adobe Illustrator"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" title="Canva"/>
   
-  <!-- Office Tools (⚠️ Devicon এ নেই, তাই পরে আলাদা source থেকে আনতে হবে) -->
-  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="40" height="40" title="MS Word"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" height="40" title="MS Excel"/>
-  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="40" height="40" title="MS PowerPoint"/>
+  <!-- Office Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" width="40" height="40" title="MS Office"/>
   
   <!-- Version Control -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code"/>
-  
-  <br/><strong>Other Skills:</strong> Responsive Web Design
-</div>
 
----
+  <br/><strong>Other Skills:</strong> Responsive Web Design
+</p>
 
 <!-- 🌱 Learning -->
-<div align="center">
-  <strong>🌱 Learning:</strong><br/><br/>
+<p align="center">
+  <strong>🌱 Learning:</strong><br/>
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React"/>
@@ -71,32 +67,35 @@
   
   <!-- Design Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" title="Adobe Photoshop"/>
-  
-  <br/><strong>Other Skills:</strong> Debugging, Problem Solving
-</div>
 
----
+  <br/><strong>Other Skills:</strong> Debugging, Problem Solving
+</p>
 
 <!-- 🟡 I Know a Little -->
-<div align="center">
-  <strong>🟡 I Know a Little:</strong><br/><br/>
+<p align="center">
+  <strong>🟡 I Know a Little:</strong><br/>
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" title="Tailwind CSS"/>
+  
+  <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" title="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java"/>
-</div>
-
----
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
+</p>
 
 <!-- 🚀 Will Learn -->
-<div align="center">
-  <strong>🚀 Will Learn:</strong><br/><br/>
+<p align="center">
+  <strong>🚀 Will Learn:</strong><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" title="Express.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>
-  
+
   <br/><strong>Other Skills:</strong> REST APIs, Team Collaboration
-</div>
+</p>
+
 
 
 
