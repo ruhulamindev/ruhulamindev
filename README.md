@@ -117,26 +117,9 @@
 
 [![RuhulAminDev GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuhulAminDev&show_icons=true&theme=radical)](https://github.com/RuhulAminDev)
 
-<!-- GitHub Stats Badges Card -->
-<div style="display: flex; gap: 16px; flex-wrap: wrap;">
-
-  <!-- Total Repos -->
-  <div style="background-color:#fff; padding:10px 16px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.1); display:flex; align-items:center;">
-    <img src="https://img.shields.io/github/repo-count/RuhulAminDev?color=blue&label=Total%20Repos" alt="Total Repos">
-  </div>
-
-  <!-- Followers -->
-  <div style="background-color:#fff; padding:10px 16px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.1); display:flex; align-items:center;">
-    <img src="https://img.shields.io/github/followers/RuhulAminDev?color=green" alt="Followers">
-  </div>
-
-  <!-- Following -->
-  <div style="background-color:#fff; padding:10px 16px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.1); display:flex; align-items:center;">
-    <img src="https://img.shields.io/github/following/RuhulAminDev?color=orange" alt="Following">
-  </div>
-
-</div>
-
+![Total Repos](https://img.shields.io/github/repo-count/RuhulAminDev?color=blue&label=Total%20Repos)
+![Followers](https://img.shields.io/github/followers/RuhulAminDev?color=green)
+![Following](https://img.shields.io/github/following/RuhulAminDev?color=orange)
 
 
 
