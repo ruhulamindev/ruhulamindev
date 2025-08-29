@@ -117,27 +117,7 @@
 
 [![RuhulAminDev GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuhulAminDev&show_icons=true&theme=radical)](https://github.com/RuhulAminDev)
 
-<!-- Main GitHub Stats Card -->
-<h3 align="center">RuhulAminDev GitHub Stats</h3>
-
-<p align="center">
-  <a href="https://github.com/RuhulAminDev">
-    <img src="https://github-readme-stats.vercel.app/api?username=RuhulAminDev&show_icons=true&theme=radical" alt="RuhulAminDev GitHub Stats"/>
-  </a>
-</p>
-
-<!-- Auto-generate badges for Repos, Followers, Following -->
-<p align="center">
-  <a href="https://github.com/RuhulAminDev?tab=repositories">
-    <img src="https://img.shields.io/github/repo-count/RuhulAminDev?color=blue&label=Total%20Repos" alt="Total Repos"/>
-  </a>
-  <a href="https://github.com/RuhulAminDev?tab=followers">
-    <img src="https://img.shields.io/github/followers/RuhulAminDev?color=green" alt="Followers"/>
-  </a>
-  <a href="https://github.com/RuhulAminDev?tab=following">
-    <img src="https://img.shields.io/github/following/RuhulAminDev?color=orange" alt="Following"/>
-  </a>
-</p>
+[![RuhulAminDev GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuhulAminDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/RuhulAminDev)
 
 
 
