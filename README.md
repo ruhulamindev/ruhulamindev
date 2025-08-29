@@ -41,14 +41,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" title="Canva"/>
   
   <!-- Office Tools -->
-  <img src="https://img.icons8.com/color/48/000000/word.png" width="40" height="40" title="MS Word"/>
+<!-- MS Word -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/word/word-original.svg" 
+     width="40" height="40" title="MS Word" 
+     style="transition: transform 0.3s;" 
+     onmouseover="this.style.transform='scale(1.2)';" 
+     onmouseout="this.style.transform='scale(1)';"/>
 <img src="https://img.icons8.com/color/48/000000/excel.png" width="40" height="40" title="MS Excel"/>
 <img src="https://img.icons8.com/color/48/000000/powerpoint.png" width="40" height="40" title="MS PowerPoint"/>
 
   
   <!-- Version Control -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub"/>
+<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+  width="40" 
+  height="40" 
+  title="GitHub" 
+  style="filter: invert(0%) drop-shadow(0 0 2px #000); transition: transform 0.3s;" 
+  onmouseover="this.style.transform='scale(1.2)';" 
+  onmouseout="this.style.transform='scale(1)';"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code"/>
 
   <br/><strong>Other Skills:</strong> Responsive Web Design
@@ -72,7 +84,14 @@
   
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" title="Express.js"/>
+<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" 
+  width="40" 
+  height="40" 
+  title="Express.js" 
+  style="filter: invert(42%) sepia(85%) saturate(400%) hue-rotate(180deg); transition: transform 0.3s;" 
+  onmouseover="this.style.transform='scale(1.2)';" 
+  onmouseout="this.style.transform='scale(1)';"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>
   
   <!-- Design Tools -->
@@ -107,7 +126,14 @@
 <p align="center">
   <strong>🚀 Will Learn:</strong><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" title="Express.js"/>
+<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" 
+  width="40" 
+  height="40" 
+  title="Express.js" 
+  style="filter: invert(42%) sepia(85%) saturate(400%) hue-rotate(180deg); transition: transform 0.3s;" 
+  onmouseover="this.style.transform='scale(1.2)';" 
+  onmouseout="this.style.transform='scale(1)';"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>
 
   <br/><strong>Other Skills:</strong> REST APIs, Team Collaboration
