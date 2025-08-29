@@ -117,7 +117,7 @@
 
 [![RuhulAminDev GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuhulAminDev&show_icons=true&theme=radical)](https://github.com/RuhulAminDev)
 
-![Total Repos](https://img.shields.io/github/repos/RuhulAminDev?color=blue&label=Total%20Repos&style=for-the-badge)
+![Total Repos](https://img.shields.io/github/repos/RuhulAminDev?color=blue&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/RuhulAminDev?color=green&style=for-the-badge)
 ![Following](https://img.shields.io/github/following/RuhulAminDev?color=orange&style=for-the-badge)
 
