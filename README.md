@@ -117,18 +117,26 @@
 
 [![RuhulAminDev GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuhulAminDev&show_icons=true&theme=radical)](https://github.com/RuhulAminDev)
 
-[![RuhulAminDev GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuhulAminDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/RuhulAminDev)
+<!-- GitHub Stats Badges Card -->
+<div style="display: flex; gap: 16px; flex-wrap: wrap;">
 
+  <!-- Total Repos -->
+  <div style="background-color:#fff; padding:10px 16px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.1); display:flex; align-items:center;">
+    <img src="https://img.shields.io/github/repo-count/RuhulAminDev?color=blue&label=Total%20Repos" alt="Total Repos">
+  </div>
 
+  <!-- Followers -->
+  <div style="background-color:#fff; padding:10px 16px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.1); display:flex; align-items:center;">
+    <img src="https://img.shields.io/github/followers/RuhulAminDev?color=green" alt="Followers">
+  </div>
 
-<!-- Main GitHub Stats Card -->
-<h3 align="center">RuhulAminDev GitHub Stats</h3>
+  <!-- Following -->
+  <div style="background-color:#fff; padding:10px 16px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.1); display:flex; align-items:center;">
+    <img src="https://img.shields.io/github/following/RuhulAminDev?color=orange" alt="Following">
+  </div>
 
-<p align="center">
-  <a href="https://github.com/RuhulAminDev">
-    <img src="https://github-readme-stats.vercel.app/api?username=RuhulAminDev&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="RuhulAminDev GitHub Stats"/>
-  </a>
-</p>
+</div>
+
 
 
 
