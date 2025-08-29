@@ -121,7 +121,14 @@
 
 
 
-[![RuhulAminDev GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuhulAminDev&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide=issues,prs)](https://github.com/RuhulAminDev)
+<!-- Main GitHub Stats Card -->
+<h3 align="center">RuhulAminDev GitHub Stats</h3>
+
+<p align="center">
+  <a href="https://github.com/RuhulAminDev">
+    <img src="https://github-readme-stats.vercel.app/api?username=RuhulAminDev&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="RuhulAminDev GitHub Stats"/>
+  </a>
+</p>
 
 
 
