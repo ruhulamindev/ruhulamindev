@@ -23,7 +23,7 @@
     <li>📫 How to reach me: <strong><a href="mailto:ruhulamin824854@gmail.com">ruhulamin824854@gmail.com</a></strong></li>
     <li>⚡ Fun fact: I love coding & problem-solving!</li>
   </ul>
-</section><br/><br/>
+</section><br/>
 
 <h3 align="left">Connect with me 👇</h3>
 <p align="left">
@@ -35,7 +35,7 @@
 <h3 align="center">💻 My Skills</h3>
 
 <!-- Already Known -->
-<h4 align="left">✅ Already Known 👇</h4>
+<h2 align="left">✅ Already Known 👇</h2>
 <p align="left">
   <!-- Frontend -->
   <strong>Front-End :</strong><br/><br/>
@@ -63,7 +63,7 @@
 </p>
 
 <!-- Learning -->
-<h4 align="left">🌱 Learning 👇</h4>
+<h2 align="left">🌱 Learning 👇</h2>
 <p align="left">
   <!-- Frontend -->
   <strong>Front-End :</strong><br/><br/>
@@ -83,10 +83,10 @@
   
   <!-- Other Skills -->
   <strong>Other Skills:</strong> Debugging, Problem Solving
-</p>
+</p><br/>
 
 <!-- I Know a Little -->
-<h4 align="left">🟡 I Know a Little 👇</h4>
+<h2 align="left">🟡 I Know a Little 👇</h2>
 <p align="left">
   <strong>Front-End :</strong><br/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
@@ -105,7 +105,7 @@
 </p>
 
 <!-- Will Learn -->
-<h4 align="left">🚀 Will Learn 👇</h4>
+<h2 align="left">🚀 Will Learn 👇</h2>
 <p align="left">
   <strong>Back-End :</strong><br/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
