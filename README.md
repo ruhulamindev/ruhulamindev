@@ -20,7 +20,7 @@
   <ul>
     <li>🔭 I’m currently working on <strong>LargeSoft Tech & other websites</strong></li>
     <li>🌱 I’m currently learning <strong>JavaScript</strong></li>
-    <li>📫 How to reach me: <strong>ruhulamin824854@gmail.com</strong></li>
+    <li>📫 How to reach me: <strong><a href="mailto:ruhulamin824854@gmail.com">ruhulamin824854@gmail.com</a></strong></li>
     <li>⚡ Fun fact: I love coding & problem-solving!</li>
   </ul>
 </section>
@@ -110,7 +110,11 @@
   <strong>Other Skills :</strong> REST APIs, Team Collaboration
 </p><br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuhulAminDev)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Top Languages Chart -->
+<h3 align="center">📊 My Top Languages & Frameworks</h3>
+<p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuhulAminDev&layout=compact&hide_border=false&langs_count=20&theme=radical)](https://github.com/RuhulAminDev)
+</p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RuhulAminDev&show_icons=true) 
 
