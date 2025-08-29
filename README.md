@@ -112,6 +112,91 @@
 
 ### Top Languages & Frameworks
 
+## Most Languages & Frameworks
+
+<div style="display: flex; flex-wrap: wrap; gap: 16px;">
+
+  <!-- HTML Card -->
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; width: 140px; text-align: center;">
+    <h4>HTML</h4>
+    ![HTML](https://img.shields.io/github/languages/top/RuhulAminDev?color=orange&logo=html5&style=for-the-badge)
+  </div>
+
+  <!-- CSS Card -->
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; width: 140px; text-align: center;">
+    <h4>CSS</h4>
+    ![CSS](https://img.shields.io/github/languages/top/RuhulAminDev?color=blue&logo=css3&style=for-the-badge)
+  </div>
+
+  <!-- JavaScript Card -->
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; width: 140px; text-align: center;">
+    <h4>JavaScript</h4>
+    ![JavaScript](https://img.shields.io/github/languages/top/RuhulAminDev?color=yellow&logo=javascript&style=for-the-badge)
+  </div>
+
+  <!-- React Card -->
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; width: 140px; text-align: center;">
+    <h4>React</h4>
+    ![React](https://img.shields.io/github/languages/top/RuhulAminDev?color=61dafb&logo=react&style=for-the-badge)
+  </div>
+
+  <!-- Next.js Card -->
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; width: 140px; text-align: center;">
+    <h4>Next.js</h4>
+    ![Next.js](https://img.shields.io/github/languages/top/RuhulAminDev?color=000000&logo=next.js&style=for-the-badge)
+  </div>
+
+  <!-- Tailwind CSS Card -->
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; width: 140px; text-align: center;">
+    <h4>Tailwind CSS</h4>
+    ![Tailwind CSS](https://img.shields.io/github/languages/top/RuhulAminDev?color=06B6D4&logo=tailwind-css&style=for-the-badge)
+  </div>
+
+  <!-- Node.js Card -->
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; width: 140px; text-align: center;">
+    <h4>Node.js</h4>
+    ![Node.js](https://img.shields.io/github/languages/top/RuhulAminDev?color=339933&logo=node.js&style=for-the-badge)
+  </div>
+
+  <!-- Express.js Card -->
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; width: 140px; text-align: center;">
+    <h4>Express.js</h4>
+    ![Express.js](https://img.shields.io/github/languages/top/RuhulAminDev?color=000000&logo=express&style=for-the-badge)
+  </div>
+
+  <!-- PHP Card -->
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; width: 140px; text-align: center;">
+    <h4>PHP</h4>
+    ![PHP](https://img.shields.io/github/languages/top/RuhulAminDev?color=777BB4&logo=php&style=for-the-badge)
+  </div>
+
+  <!-- Python Card -->
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; width: 140px; text-align: center;">
+    <h4>Python</h4>
+    ![Python](https://img.shields.io/github/languages/top/RuhulAminDev?color=3776AB&logo=python&style=for-the-badge)
+  </div>
+
+  <!-- Java Card -->
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; width: 140px; text-align: center;">
+    <h4>Java</h4>
+    ![Java](https://img.shields.io/github/languages/top/RuhulAminDev?color=007396&logo=java&style=for-the-badge)
+  </div>
+
+  <!-- MySQL Card -->
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; width: 140px; text-align: center;">
+    <h4>MySQL</h4>
+    ![MySQL](https://img.shields.io/github/languages/top/RuhulAminDev?color=4479A1&logo=mysql&style=for-the-badge)
+  </div>
+
+  <!-- MongoDB Card -->
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; width: 140px; text-align: center;">
+    <h4>MongoDB</h4>
+    ![MongoDB](https://img.shields.io/github/languages/top/RuhulAminDev?color=47A248&logo=mongodb&style=for-the-badge)
+  </div>
+
+</div>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuhulAminDev&layout=compact&langs_count=20&theme=radical)](https://github.com/RuhulAminDev)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RuhulAminDev&show_icons=true)
