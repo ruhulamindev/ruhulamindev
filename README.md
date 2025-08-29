@@ -26,7 +26,10 @@
 </section>
 
 
-<h3 align="center">💻 My Skills</h3>
+<h3 align="center" style="display: inline-block; border-bottom: 2px solid red; padding-bottom: 5px;">
+  💻 My Skills
+</h3>
+
 
 <!-- Already Known -->
 <h4 align="left">✅ Already Known 👇</h4>
@@ -39,13 +42,13 @@
   <!-- Design Tools -->
   <strong>Design Tools:</strong><br/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" title="Adobe Photoshop" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" title="Adobe Illustrator" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   <img src="https://img.icons8.com/color/48/000000/canva.png" width="40" height="40" title="Canva" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   
   <!-- Office Tools -->
   <strong>Office Tools:</strong><br/><br/>
   <img src="https://img.icons8.com/color/48/000000/word.png" width="40" height="40" title="MS Word" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://img.icons8.com/color/48/000000/excel.png" width="40" height="40" title="MS Excel" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+ <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="40" height="40" title="MS Excel" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   <img src="https://img.icons8.com/color/48/000000/powerpoint.png" width="40" height="40" title="MS PowerPoint" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   
   <!-- Version Control -->
@@ -70,6 +73,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   <img src="https://img.icons8.com/color/48/000000/express-js.png" width="40" height="40" title="Express.js" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+
+    <!-- Design Tools -->
+  <strong>Design Tools:</strong><br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" title="Adobe Photoshop" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   
   <!-- Other Skills -->
   <strong>Other Skills:</strong> Debugging, Problem Solving
@@ -89,6 +96,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+
+    <!-- Design Tools -->
+  <strong>Design Tools:</strong><br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" title="Adobe Photoshop" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
 </p>
 
 <!-- Will Learn -->
@@ -102,18 +113,11 @@
   <strong>Other Skills:</strong> REST APIs, Team Collaboration
 </p>
 
-
-
-
-
-<p align="left">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<!--Alternative -->
+<h4 align="left">Alternative 👇</h4><br/><br/>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
-</p>   
+</p>  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuhulAminDev)](https://github.com/anuraghazra/github-readme-stats)
