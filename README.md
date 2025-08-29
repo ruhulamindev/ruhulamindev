@@ -14,18 +14,109 @@
 
 ![ Developer Ruhul Amin ](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-1/460829617_122093531066551137_6163513718053497943_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=104&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeEZeChs7-d0PfL3cGNAAsosMnD8ISoer9AycPwhKh6v0E76NF11m43iWBv6NQU-wZBiLyrq_1Wm6SnQ5mXGD5Y4&_nc_ohc=r_ZMnlNYBZoQ7kNvgHvYHHa&_nc_oc=Adh-D6KxuCkmOnQ96BbU8DsH9SzAE1Mg_w0Og7Utw8Zq9S5TX6qU06AZwSKNX88fbRQ&_nc_zt=24&_nc_ht=scontent.fdac14-1.fna&_nc_gid=AXR9Kqd4Yywx4FwPdezuib1&oh=00_AYBqkznyCWhCSWINkl6BVrn2HU8LTRj__xmrYgdHHJT8XQ&oe=67CFC2A7)
 
-<h3>💻 Skills</h3>
-<ul>
-  <li><strong>**Frontend:</strong> HTML, CSS, ( Learning -- JavaScript, React.js, Tailwind CSS )</li>
-  <li><strong>**Backend:</strong> Node.js, Express.js, PHP, MySQL ( Will Learn )</li>
-  <li><strong>Tools & Platforms:</strong> Git, GitHub, VS Code, Figma</li>
-  <li><strong>**Other Skills:</strong> Responsive Design, ( Learning -- Problem Solving, Debugging )</li>
-</ul>
 
-- 🔭 I’m currently working on **LargeSoft Tech & other websites**
-- 🌱 I’m currently learning **JavaScript**
-- 📫 How to reach me: **ruhulamin824854@gmail.com**
-- ⚡ Fun fact: I love coding & problem-solving!  
+<section class="about-me">
+  <h3>About Me</h3>
+  <ul>
+    <li>🔭 I’m currently working on <strong>LargeSoft Tech & other websites</strong></li>
+    <li>🌱 I’m currently learning <strong>JavaScript</strong></li>
+    <li>📫 How to reach me: <strong>ruhulamin824854@gmail.com</strong></li>
+    <li>⚡ Fun fact: I love coding & problem-solving!</li>
+  </ul>
+</section>
+
+
+<h3 align="center">💻 My Skills</h3>
+
+<p align="center">
+  <!-- Already Known -->
+  <strong>✅ Already Known:</strong><br/>
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  
+  <!-- Design Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" title="Adobe Illustrator" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" title="Canva" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  
+  <!-- Office Tools -->
+ <p align="left">  
+  <!-- MS Word -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/word/word-original.svg" 
+       width="40" height="40" title="MS Word" 
+       style="transition: transform 0.3s;" 
+       onmouseover="this.style.transform='scale(1.2)';" 
+       onmouseout="this.style.transform='scale(1)';"/>  
+
+  <!-- MS Excel -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" 
+       width="40" height="40" title="MS Excel" 
+       style="transition: transform 0.3s;" 
+       onmouseover="this.style.transform='scale(1.2)';" 
+       onmouseout="this.style.transform='scale(1)';"/>  
+
+  <!-- MS PowerPoint -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerpoint/powerpoint-original.svg" 
+       width="40" height="40" title="MS PowerPoint" 
+       style="transition: transform 0.3s;" 
+       onmouseover="this.style.transform='scale(1.2)';" 
+       onmouseout="this.style.transform='scale(1)';"/>  
+</p>
+  
+  <!-- Version Control -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  
+  <!-- Other Skills -->
+  <strong>Other Skills:</strong> Responsive Web Design
+</p>
+
+<p align="center">
+  <!-- Learning -->
+  <strong>🌱 Learning:</strong><br/>
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next.js" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" title="Tailwind CSS" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" title="Express.js" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  
+  <!-- Design Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" title="Adobe Photoshop" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  
+  <!-- Other Skills -->
+  <strong>Other Skills:</strong> Debugging, Problem Solving
+</p>
+
+<p align="center">
+  <!-- I know a little -->
+  <strong>🟡 I Know a Little:</strong><br/>
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next.js" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" title="Tailwind CSS" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" title="PHP" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+</p>
+
+<p align="center">
+  <!-- Will Learn -->
+  <strong>🚀 Will Learn:</strong><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" title="Express.js" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <strong>Other Skills:</strong> REST APIs, Team Collaboration
+</p>
 
 
 <p align="left">  
