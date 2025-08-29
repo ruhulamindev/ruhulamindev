@@ -110,8 +110,19 @@
   <strong>Other Skills :</strong> REST APIs, Team Collaboration
 </p><br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuhulAminDev&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
-
+### Top Languages & Frameworks
+![HTML](https://img.shields.io/badge/HTML-25%25-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-20%25-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-30%25-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-15%25-61dafb?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-10%25-black?style=for-the-badge&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-10%25-06B6D4?style=for-the-badge&logo=tailwind-css)
+![Node.js](https://img.shields.io/badge/Node.js-15%25-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-10%25-000000?style=for-the-badge&logo=express)
+![PHP](https://img.shields.io/badge/PHP-10%25-777BB4?style=for-the-badge&logo=php)
+![Python](https://img.shields.io/badge/Python-20%25-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-10%25-007396?style=for-the-badge&logo=java)
+![MySQL](https://img.shields.io/badge/MySQL-15%25-4479A1?style=for-the-badge&logo=mysql)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RuhulAminDev&show_icons=true) 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuhulAminDev&theme=radical&hide_border=true" alt="GitHub Streak 1">
