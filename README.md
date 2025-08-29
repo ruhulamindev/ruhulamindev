@@ -117,10 +117,10 @@
 
 [![RuhulAminDev GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuhulAminDev&show_icons=true&theme=radical)](https://github.com/RuhulAminDev)
 
-<!-- Separate Badges for Repos, Followers, Following -->
-![Total Repos](https://img.shields.io/badge/Total%20Repos-12-blue)
-![Followers](https://img.shields.io/badge/Followers-34-green)
-![Following](https://img.shields.io/badge/Following-10-orange)
+<!-- Auto-generate badges for Repos, Followers, Following -->
+![Total Repos](https://img.shields.io/github/repo-count/RuhulAminDev?color=blue&label=Total%20Repos)
+![Followers](https://img.shields.io/github/followers/RuhulAminDev?color=green)
+![Following](https://img.shields.io/github/following/RuhulAminDev?color=orange)
 
 [![RuhulAminDev GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuhulAminDev&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide=issues,prs)](https://github.com/RuhulAminDev)
 
