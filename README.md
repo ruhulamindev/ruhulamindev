@@ -114,7 +114,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuhulAminDev&layout=compact&langs_count=20&theme=radical)](https://github.com/RuhulAminDev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuhulAminDev&layout=compact&langs_count=20&theme=radical)](https://github.com/RuhulAminDev)
 
-
 [![RuhulAminDev GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuhulAminDev&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&hide_rank=false&theme=radical&locale=en&title=RuhulAminDev%20GitHub%20Stats)](https://github.com/RuhulAminDev)
 
 ![Followers](https://img.shields.io/github/followers/RuhulAminDev?color=green&style=for-the-badge)
