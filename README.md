@@ -32,10 +32,10 @@
 </p>
 
 
-<h3 align="center">💻 My Skills</h3>
+<h2 align="center">💻 My Skills</h2>
 
 <!-- Already Known -->
-<h2 align="left">✅ Already Known 👇</h2>
+<h3 align="left">✅ Already Known 👇</h3>
 <p align="left">
   <!-- Frontend -->
   <strong>Front-End :</strong><br/><br/>
@@ -63,7 +63,7 @@
 </p>
 
 <!-- Learning -->
-<h2 align="left">🌱 Learning 👇</h2>
+<h3 align="left">🌱 Learning 👇</h3>
 <p align="left">
   <!-- Frontend -->
   <strong>Front-End :</strong><br/><br/>
@@ -86,7 +86,7 @@
 </p><br/>
 
 <!-- I Know a Little -->
-<h2 align="left">🟡 I Know a Little 👇</h2>
+<h3 align="left">🟡 I Know a Little 👇</h3>
 <p align="left">
   <strong>Front-End :</strong><br/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
@@ -105,7 +105,7 @@
 </p>
 
 <!-- Will Learn -->
-<h2 align="left">🚀 Will Learn 👇</h2>
+<h3 align="left">🚀 Will Learn 👇</h3>
 <p align="left">
   <strong>Back-End :</strong><br/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
