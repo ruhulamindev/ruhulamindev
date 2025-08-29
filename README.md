@@ -110,20 +110,47 @@
   <strong>Other Skills :</strong> REST APIs, Team Collaboration
 </p><br/><br/>
 
-### Top Languages & Frameworks
-![HTML](https://img.shields.io/badge/HTML-25%25-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-20%25-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-30%25-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-15%25-61dafb?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-10%25-black?style=for-the-badge&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-10%25-06B6D4?style=for-the-badge&logo=tailwind-css)
-![Node.js](https://img.shields.io/badge/Node.js-15%25-339933?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-10%25-000000?style=for-the-badge&logo=express)
-![PHP](https://img.shields.io/badge/PHP-10%25-777BB4?style=for-the-badge&logo=php)
-![Python](https://img.shields.io/badge/Python-20%25-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-10%25-007396?style=for-the-badge&logo=java)
-![MySQL](https://img.shields.io/badge/MySQL-15%25-4479A1?style=for-the-badge&logo=mysql)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RuhulAminDev&show_icons=true) 
+<h3 style="text-align:center; border-bottom: 2px solid red; display:inline-block; padding-bottom:5px;">Top Languages & Frameworks</h3>
+
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px; margin-top:15px;">
+  <div style="padding:10px; border:1px solid #ddd; border-radius:8px; display:flex; align-items:center; gap:5px;">
+    <img src="https://img.shields.io/badge/HTML-25%25-orange?style=for-the-badge&logo=html5" alt="HTML"/>
+  </div>
+  <div style="padding:10px; border:1px solid #ddd; border-radius:8px; display:flex; align-items:center; gap:5px;">
+    <img src="https://img.shields.io/badge/CSS-20%25-blue?style=for-the-badge&logo=css3" alt="CSS"/>
+  </div>
+  <div style="padding:10px; border:1px solid #ddd; border-radius:8px; display:flex; align-items:center; gap:5px;">
+    <img src="https://img.shields.io/badge/JavaScript-30%25-yellow?style=for-the-badge&logo=javascript" alt="JavaScript"/>
+  </div>
+  <div style="padding:10px; border:1px solid #ddd; border-radius:8px; display:flex; align-items:center; gap:5px;">
+    <img src="https://img.shields.io/badge/React-15%25-61dafb?style=for-the-badge&logo=react" alt="React"/>
+  </div>
+  <div style="padding:10px; border:1px solid #ddd; border-radius:8px; display:flex; align-items:center; gap:5px;">
+    <img src="https://img.shields.io/badge/Next.js-10%25-black?style=for-the-badge&logo=next.js" alt="Next.js"/>
+  </div>
+  <div style="padding:10px; border:1px solid #ddd; border-radius:8px; display:flex; align-items:center; gap:5px;">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-10%25-06B6D4?style=for-the-badge&logo=tailwind-css" alt="Tailwind CSS"/>
+  </div>
+  <div style="padding:10px; border:1px solid #ddd; border-radius:8px; display:flex; align-items:center; gap:5px;">
+    <img src="https://img.shields.io/badge/Node.js-15%25-339933?style=for-the-badge&logo=node.js" alt="Node.js"/>
+  </div>
+  <div style="padding:10px; border:1px solid #ddd; border-radius:8px; display:flex; align-items:center; gap:5px;">
+    <img src="https://img.shields.io/badge/Express.js-10%25-000000?style=for-the-badge&logo=express" alt="Express.js"/>
+  </div>
+  <div style="padding:10px; border:1px solid #ddd; border-radius:8px; display:flex; align-items:center; gap:5px;">
+    <img src="https://img.shields.io/badge/PHP-10%25-777BB4?style=for-the-badge&logo=php" alt="PHP"/>
+  </div>
+  <div style="padding:10px; border:1px solid #ddd; border-radius:8px; display:flex; align-items:center; gap:5px;">
+    <img src="https://img.shields.io/badge/Python-20%25-3776AB?style=for-the-badge&logo=python" alt="Python"/>
+  </div>
+  <div style="padding:10px; border:1px solid #ddd; border-radius:8px; display:flex; align-items:center; gap:5px;">
+    <img src="https://img.shields.io/badge/Java-10%25-007396?style=for-the-badge&logo=java" alt="Java"/>
+  </div>
+  <div style="padding:10px; border:1px solid #ddd; border-radius:8px; display:flex; align-items:center; gap:5px;">
+    <img src="https://img.shields.io/badge/MySQL-15%25-4479A1?style=for-the-badge&logo=mysql" alt="MySQL"/>
+  </div>
+</div>
+ 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuhulAminDev&theme=radical&hide_border=true" alt="GitHub Streak 1">
 
