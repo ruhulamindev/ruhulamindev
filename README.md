@@ -110,7 +110,9 @@
   <strong>Other Skills :</strong> REST APIs, Team Collaboration
 </p><br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuhulAminDev&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+### Top Languages & Frameworks
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuhulAminDev&layout=compact&langs_count=20&theme=radical)](https://github.com/RuhulAminDev)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RuhulAminDev&show_icons=true)
 
