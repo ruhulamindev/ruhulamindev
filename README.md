@@ -117,7 +117,15 @@
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuhulAminDev&layout=compact&langs_count=20&theme=radical)](https://github.com/RuhulAminDev) -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RuhulAminDev&show_icons=true&locale=en&layout=compact" alt="RuhulAminDev" /></p><br/><br/>
+<div align="left">
+  <!-- উপরের কার্ড -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RuhulAminDev&show_icons=true&locale=en&layout=compact" alt="RuhulAminDev" />
+  
+  <!-- নিচের কার্ড -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RuhulAminDev&show_icons=true&locale=en" alt="RuhulAminDev" />
+</div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RuhulAminDev&show_icons=true&locale=en&layout=compact" alt="RuhulAminDev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RuhulAminDev&show_icons=true&locale=en" alt="RuhulAminDev" /></p>
 
