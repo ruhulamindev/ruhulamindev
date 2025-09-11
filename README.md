@@ -9,7 +9,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RuhulAminDev&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fardin-sojon" alt="fardin-sojon" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RuhulAminDev" alt="RuhulAminDev" /></a> </p>
 
 
 "I have started my journey as a new developer. I have a deep interest in learning full-stack web development. My primary goal is to establish myself as a professional web developer." 
