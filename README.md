@@ -135,6 +135,6 @@
 
 ![Followers](https://img.shields.io/github/followers/RuhulAminDev?color=green&style=for-the-badge)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RuhulAminDev&theme=radical&hide_border=true" alt="GitHub Streak 1">
+<img src="https://streak-stats.demolab.com/?user=RuhulAminDev&theme=radical&hide_border=true" alt="GitHub Streak">
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/RuhulAminDev/contributions?format=svg&private=false)  
