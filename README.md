@@ -7,9 +7,9 @@
 <h3 align="center">A passionate Front-End Web Developer  from Bangladesh</h3>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=RuhulAminDev&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=ruhulamindev&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RuhulAminDev" alt="RuhulAminDev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruhulamindev" alt="ruhulamindev" /></a> </p>
 
 
 "I have started my journey as a new developer. I have a deep interest in learning full-stack web development. My primary goal is to establish myself as a professional web developer." 
@@ -119,22 +119,22 @@
 </p><br/><br/>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RuhulAminDev&show_icons=true&locale=en&layout=compact" alt="RuhulAminDev" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruhulamindev&show_icons=true&locale=en&layout=compact" alt="ruhulamindev" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RuhulAminDev&show_icons=true&locale=en" alt="RuhulAminDev" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ruhulamindev&show_icons=true&locale=en" alt="ruhulamindev" />
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RuhulAminDev&show_icons=true&locale=en&layout=compact" alt="RuhulAminDev" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruhulamindev&show_icons=true&locale=en&layout=compact" alt="ruhulamindev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RuhulAminDev&show_icons=true&locale=en" alt="RuhulAminDev" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruhulamindev&show_icons=true&locale=en" alt="ruhulamindev" /></p> -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuhulAminDev&layout=compact&langs_count=20&theme=radical)](https://github.com/RuhulAminDev) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamindev&layout=compact&langs_count=20&theme=radical)](https://github.com/ruhulamindev) -->
 
-<!-- [![RuhulAminDev GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuhulAminDev&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&hide_rank=false&theme=radical&locale=en&title=RuhulAminDev%20GitHub%20Stats)](https://github.com/RuhulAminDev) -->
+<!-- [![ruhulamindev GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruhulamindev&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&hide_rank=false&theme=radical&locale=en&title=ruhulamindev%20GitHub%20Stats)](https://github.com/ruhulamindev) -->
 
-![Followers](https://img.shields.io/github/followers/RuhulAminDev?color=green&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/ruhulamindev?color=green&style=for-the-badge)
 
-<img src="https://streak-stats.demolab.com/?user=RuhulAminDev&theme=radical&hide_border=true" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com/?user=ruhulamindev&theme=radical&hide_border=true" alt="GitHub Streak">
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/RuhulAminDev/contributions?format=svg&private=false)  
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ruhulamindev/contributions?format=svg&private=false)  
