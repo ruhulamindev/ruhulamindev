@@ -3,7 +3,7 @@
 </h1>
 
 
-<h3 align="center">A passionate Front-End Web Developer  from Bangladesh</h3>
+<h3 align="center">A passionate 💻Frontend & MERN Stack Developer from Bangladesh</h3>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ruhulamindev&label=Profile%20views&color=0e75b6&style=flat)
