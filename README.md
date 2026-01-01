@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.ibb.co/XXXXX/banner.png" alt="Ruhul Amin Banner" width="900" />
+  <img src="https://ibb.co.com/1YFRRmjR" alt="Ruhul Amin Banner" width="900" />
 </h1>
 
 <h3 align="center">A passionate Front-End Web Developer  from Bangladesh</h3>
