@@ -115,17 +115,12 @@
   <strong>Other Skills :</strong> REST APIs, Team Collaboration
 </p><br/><br/>
 
-<!-- Languages Used -->
-<h2 align="left">📝 Languages Used</h2>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamindev&layout=normal&langs_count=100&theme=radical" alt="Languages Used" />
-</p>
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruhulamindev&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
-<!-- GitHub Stats -->
-<h2 align="left">📊 GitHub Stats</h2>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruhulamindev&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="ruhulamindev GitHub Stats" />
-</p>
+## 📝 Languages Used
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamindev&layout=compact&langs_count=100&theme=radical)
+
 
 <!-- GitHub Streak -->
 <h2 align="left">🔥 GitHub Streak</h2>
@@ -135,11 +130,8 @@
 
 ![Followers](https://img.shields.io/github/followers/ruhulamindev?color=green&style=for-the-badge)
 
-<!-- Coding Activity in the Last Month -->
-<h2 align="left">⏱️ Coding Activity (Last Month)</h2>
-<p align="left">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ruhulamindev&theme=react-dark&hide_border=true" alt="Coding Activity Graph" />
-</p>
+## ⏱️ Coding Activity (Last Month)
+![Coding Activity Graph](https://activity-graph.herokuapp.com/graph?username=ruhulamindev&theme=react-dark)
 
 <!-- GitHub Contributions / PRs -->
 <h2 align="left">💻 Contributions & PRs</h2>
