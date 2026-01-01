@@ -46,16 +46,18 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
     <img src="https://img.icons8.com/color/48/000000/nextjs.png" width="40" height="40" title="Next.js" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://img.icons8.com/color/48/000000/express-js.png" width="40" height="40" title="Express.js" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+
+   <strong>Back-End :</strong><br/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
-  
-  <!-- Design Tools -->
-  <strong>Design Tools :</strong><br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://img.icons8.com/color/48/000000/powerpoint.png" width="40" height="40" title="MS PowerPoint" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" title="Adobe Illustrator" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://img.icons8.com/color/48/000000/canva.png" width="40" height="40" title="Canva" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://img.icons8.com/color/48/000000/express-js.png" width="40" height="40" title="Express.js" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+
+
+    <!-- Version Control -->
+  <strong>Version Control & Dev :</strong><br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub" style="filter: invert(19%) sepia(93%) saturate(1500%) hue-rotate(200deg); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/></p>
   
   <!-- Office Tools -->
   <strong>Office Tools :</strong><br/><br/>
@@ -63,12 +65,12 @@
  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="40" height="40" title="MS Excel" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   <img src="https://img.icons8.com/color/48/000000/powerpoint.png" width="40" height="40" title="MS PowerPoint" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   
-  <!-- Version Control -->
-  <strong>Version Control & Dev :</strong><br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub" style="filter: invert(19%) sepia(93%) saturate(1500%) hue-rotate(200deg); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
-</p>
+  <!-- Design Tools -->
+  <strong>Design Tools :</strong><br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://img.icons8.com/color/48/000000/powerpoint.png" width="40" height="40" title="MS PowerPoint" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" title="Adobe Illustrator" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://img.icons8.com/color/48/000000/canva.png" width="40" height="40" title="Canva" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
 
 <!-- Learning -->
 <h3 align="left">🌱 Learning 👇</h3>
