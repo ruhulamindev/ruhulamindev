@@ -8,9 +8,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ruhulamindev&label=Profile%20views&color=0e75b6&style=flat)
 
-![ Developer Ruhul Amin ](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-1/460829617_122093531066551137_6163513718053497943_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=104&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeEZeChs7-d0PfL3cGNAAsosMnD8ISoer9AycPwhKh6v0E76NF11m43iWBv6NQU-wZBiLyrq_1Wm6SnQ5mXGD5Y4&_nc_ohc=r_ZMnlNYBZoQ7kNvgHvYHHa&_nc_oc=Adh-D6KxuCkmOnQ96BbU8DsH9SzAE1Mg_w0Og7Utw8Zq9S5TX6qU06AZwSKNX88fbRQ&_nc_zt=24&_nc_ht=scontent.fdac14-1.fna&_nc_gid=AXR9Kqd4Yywx4FwPdezuib1&oh=00_AYBqkznyCWhCSWINkl6BVrn2HU8LTRj__xmrYgdHHJT8XQ&oe=67CFC2A7)
-
-
 <section class="about-me">
   <h3>About Me</h3>
   <ul>
