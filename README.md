@@ -17,7 +17,6 @@
     <li>📫 How to reach me:<br/><strong>Email: <a href="mailto:ruhulamin824854@gmail.com">ruhulamin8203239@gmail.com</a><br/><strong>Phone/WhatsApp: +8801889403387</sstrong></strong></li>
   </ul>
 </section><br/>
-
 <section class="about-me">
   <h3>Current Activities</h3>
   <ul>
