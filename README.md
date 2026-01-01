@@ -8,10 +8,16 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ruhulamindev&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruhulamindev" alt="ruhulamindev" /></a> </p>
+<p align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ruhulamindev&row=1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
+Hi, I'm Ruhul Amin 👋  
+💻Frontend & MERN Stack Developer Web Developer | React.js | Next.js | Tailwind CSS  
+🌱 Learning Full-Stack Development  
+⚡ Passionate about coding, problem-solving & building amazing web projects  
+📫 Reach me:📱Phone/WhatsApp: +8801889403387
 
-"I have started my journey as a new developer. I have a deep interest in learning full-stack web development. My primary goal is to establish myself as a professional web developer." 
 
 
 ![ Developer Ruhul Amin ](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-1/460829617_122093531066551137_6163513718053497943_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=104&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeEZeChs7-d0PfL3cGNAAsosMnD8ISoer9AycPwhKh6v0E76NF11m43iWBv6NQU-wZBiLyrq_1Wm6SnQ5mXGD5Y4&_nc_ohc=r_ZMnlNYBZoQ7kNvgHvYHHa&_nc_oc=Adh-D6KxuCkmOnQ96BbU8DsH9SzAE1Mg_w0Og7Utw8Zq9S5TX6qU06AZwSKNX88fbRQ&_nc_zt=24&_nc_ht=scontent.fdac14-1.fna&_nc_gid=AXR9Kqd4Yywx4FwPdezuib1&oh=00_AYBqkznyCWhCSWINkl6BVrn2HU8LTRj__xmrYgdHHJT8XQ&oe=67CFC2A7)
