@@ -14,7 +14,7 @@
     <li>💻Frontend & MERN Stack Developer Web Developer | React.js | Next.js | Tailwind CSS</li>
     <li>🌱 I’m currently learning <strong>Full-Stack Development </strong></li>
     <li>⚡Passionate about coding, problem-solving & building amazing web projects</li>
-    <li>📫 How to reach me:<br/><strong>Email: <a href="mailto:ruhulamin824854@gmail.com">ruhulamin824854@gmail.com</a><br/><strong>📱 Phone/WhatsApp: +8801889403387</sstrong></strong></li>
+    <li>📫 How to reach me:<br/><strong>Email: <a href="mailto:ruhulamin824854@gmail.com">ruhulamin824854@gmail.com</a><br/><strong>Phone/WhatsApp: +8801889403387</sstrong></strong></li>
   </ul>
 </section><br/>
 
