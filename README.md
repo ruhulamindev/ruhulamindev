@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Ruhul+Amin" alt="Typing SVG" /> </a> </h1>
-<h3 align="center">A passionate 💻Frontend & MERN Stack Developer from Bangladesh</h3>
+<h3 align="center">Frontend & MERN Stack Developer from Bangladesh</h3>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ruhulamindev&label=Profile%20views&color=0e75b6&style=flat)
