@@ -133,6 +133,8 @@
   <img src="https://streak-stats.demolab.com/?user=ruhulamindev&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
+![Followers](https://img.shields.io/github/followers/ruhulamindev?color=green&style=for-the-badge)
+
 <!-- Coding Activity in the Last Month -->
 <h2 align="left">⏱️ Coding Activity (Last Month)</h2>
 <p align="left">
@@ -161,8 +163,6 @@
 
 <!-- [![ruhulamindev GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruhulamindev&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&hide_rank=false&theme=radical&locale=en&title=ruhulamindev%20GitHub%20Stats)](https://github.com/ruhulamindev) -->
 
-![Followers](https://img.shields.io/github/followers/ruhulamindev?color=green&style=for-the-badge)
-
-<img src="https://streak-stats.demolab.com/?user=ruhulamindev&theme=radical&hide_border=true" alt="GitHub Streak">
+<!--<img src="https://streak-stats.demolab.com/?user=ruhulamindev&theme=radical&hide_border=true" alt="GitHub Streak">-->
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ruhulamindev/contributions?format=svg&private=false)  
