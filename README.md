@@ -115,22 +115,13 @@
   <strong>Other Skills :</strong> REST APIs, Team Collaboration
 </p><br/><br/>
 
-### ⏱️ Coding Activity (Last Month)
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ruhulamindev&theme=react-dark&hide_border=true" alt="Coding Activity Graph" />
-</p>
-
----
-
-
 ## 📝 Languages Used
 ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamindev&layout=compact&langs_count=100&theme=radical)
-
 
 ---
 
 ## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhulamindev)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruhulamindev&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
 
 <!-- GitHub Streak -->
