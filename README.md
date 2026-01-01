@@ -116,7 +116,7 @@
 </p><br/><br/>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruhulamindev&show_icons=true&locale=en&layout=compact" alt="ruhulamindev" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamindev&layout=normal&langs_count=100&theme=radical" alt="Languages Used" />
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ruhulamindev&show_icons=true&locale=en" alt="ruhulamindev" />
