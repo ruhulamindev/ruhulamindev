@@ -32,6 +32,11 @@
 <a href="https://www.facebook.com/profile.php?id=61566534111401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fardinsojon" height="30" width="40" /></a>
 </p>
 
+### GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamindev&layout=compact&langs_count=10&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruhulamindev&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ruhulamindev&theme=radical&hide_border=true)
+
 
 <h2 align="center">💻 My Skills</h2>
 
