@@ -115,11 +115,24 @@
   <strong>Other Skills :</strong> REST APIs, Team Collaboration
 </p><br/><br/>
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruhulamindev&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+### ⏱️ Coding Activity (Last Month)
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=ruhulamindev&theme=react-dark&hide_border=true" alt="Coding Activity Graph" />
+</p>
 
-## 📝 Languages Used
-![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamindev&layout=compact&langs_count=100&theme=radical)
+---
+
+### 📝 Languages Used
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamindev&layout=compact&langs_count=10&theme=radical" alt="Languages Used" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruhulamindev&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="ruhulamindev GitHub Stats" />
+</p>
 
 
 <!-- GitHub Streak -->
