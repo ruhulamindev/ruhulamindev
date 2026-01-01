@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.ibb.co/XXXX/banner.png" alt="Ruhul Amin Banner" width="900" />
+  <img src="https://md-ruhul-amin234.imgbb.com/" alt="Ruhul Amin Banner" width="900" />
 </h1>
 
 
