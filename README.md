@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://ibb.co.com/1YFRRmjR?font=Poppins&weight=600&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Ruhul+Amin" alt="Typing SVG" />
-  </a>
+  <img src="https://i.ibb.co/XXXXX/banner.png" alt="Ruhul Amin Banner" width="900" />
 </h1>
 
 <h3 align="center">A passionate Front-End Web Developer  from Bangladesh</h3>
