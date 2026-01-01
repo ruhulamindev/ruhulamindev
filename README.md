@@ -115,12 +115,43 @@
   <strong>Other Skills :</strong> REST APIs, Team Collaboration
 </p><br/><br/>
 
+<!-- Languages Used -->
+<h2 align="left">📝 Languages Used</h2>
 <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamindev&layout=normal&langs_count=100&theme=radical" alt="Languages Used" />
+</p>
+
+<!-- GitHub Stats -->
+<h2 align="left">📊 GitHub Stats</h2>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruhulamindev&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="ruhulamindev GitHub Stats" />
+</p>
+
+<!-- GitHub Streak -->
+<h2 align="left">🔥 GitHub Streak</h2>
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=ruhulamindev&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- Coding Activity in the Last Month -->
+<h2 align="left">⏱️ Coding Activity (Last Month)</h2>
+<p align="left">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ruhulamindev&theme=react-dark&hide_border=true" alt="Coding Activity Graph" />
+</p>
+
+<!-- GitHub Contributions / PRs -->
+<h2 align="left">💻 Contributions & PRs</h2>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruhulamindev&theme=radical" alt="Profile Summary" />
+</p>
+
+
+<!--<p align="left">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamindev&layout=normal&langs_count=100&theme=radical" alt="Languages Used" />
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ruhulamindev&show_icons=true&locale=en" alt="ruhulamindev" />
-</p>
+</p>-->
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruhulamindev&show_icons=true&locale=en&layout=compact" alt="ruhulamindev" /></p>
 
