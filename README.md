@@ -122,17 +122,15 @@
 
 ---
 
-### 📝 Languages Used
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamindev&layout=compact&langs_count=10&theme=radical" alt="Languages Used" />
-</p>
+
+## 📝 Languages Used
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamindev&layout=compact&langs_count=100&theme=radical)
+
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruhulamindev&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="ruhulamindev GitHub Stats" />
-</p>
+## 📊 GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhulamindev)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- GitHub Streak -->
